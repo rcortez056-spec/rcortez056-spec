@@ -10,6 +10,7 @@ Production-grade agentic workflows, autonomous backend pipelines, and low-code s
     
      * [Inbound Lead Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSee448enA43SlQ0x22YFUDYZyGaLUAMy7K5s82YBLWT9NvP4Q/viewform?usp=header)
 * [Access Full Client Package & Scope Guide](https://docs.google.com/document/d/1W3kjragvEpsg12eQYstqhjrljtsLWjqaclg2ety8eFY/edit?tab=t.0#heading=h.do45k9b144gm)
+  
   ![Deterministic Guardrail Enforcement](./Screenshot_10-11-2026_184710_gemini.google.com.jpeg)
   
 ---
