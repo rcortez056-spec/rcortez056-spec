@@ -8,8 +8,8 @@ Production-grade agentic workflows, autonomous backend pipelines, and low-code s
 * **Architectural Deep Dives:** Read System Breakdowns on Substack
   * [Restaurant & Event Catering Qualification Knowledge Base](https://userdata-bcbe5a.stack.tryrelevance.com/files/knowledge_set/4739e460-d5a5-4f1e-accc-ed10229b2ee0/restaurant_event_catering_qualification_knowledge_base_pdf/fdba54c5-dbd7-48dd-a6ac-be7867212ff6.pdf)
   * [Inbound Lead Intake & Pricing Overview](https://docs.google.com/document/d/1bD-prqBOzq6VzCnMCnljNNjOpHvaaoIkyyM-T82qE2Q/edit?usp=sharing)
-    
-     * [Inbound Lead Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSee448enA43SlQ0x22YFUDYZyGaLUAMy7K5s82YBLWT9NvP4Q/viewform?usp=header)
+    * [Inbound Lead Intake Form](https://docs.google.com/forms/d/e/1FAIpQLSee448enA43SlQ0x22YFUDYZyGaLUAMy7K5s82YBLWT9NvP4Q/viewform?usp=header)
+       
 * [Access Full Client Package & Scope Guide](https://docs.google.com/document/d/1W3kjragvEpsg12eQYstqhjrljtsLWjqaclg2ety8eFY/edit?tab=t.0#heading=h.do45k9b144gm)
   
   ![Deterministic Guardrail Enforcement](https://github.com/rcortez056-spec/spec-assets/blob/79c8b235db81d9fb33ed418913ea4781604b252f/Screenshot_10-11-2026_184710_gemini.google.com.jpeg)
