@@ -1,10 +1,7 @@
 # AI Solutions Architect & Multi-Agent Systems
-
+[![Devpost](https://img.shields.io/badge/Devpost-003e54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rcortez056-spec)   [![Store](https://img.shields.io/badge/Store-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://store.ramoncortezai.com)
 Production-grade agentic workflows, autonomous backend pipelines, and low-code system design engineered for scalable business operations.
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-  <a href="https://devpost.com/rcortez056-spec" target="_blank" style="display: inline-block; background: #003e54; color: white; padding: 8px 16px; border-radius: 6px; font-weight: 600; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">Devpost</a>
-  <a href="https://store.ramoncortezai.com" target="_blank" style="display: inline-block; background: linear-gradient(135deg, #003e54, #005f73); color: white; padding: 8px 16px; border-radius: 6px; font-weight: 600; text-decoration: none; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">Store</a>
-</div>
+
 ## 🔗 Direct Access & Proof-of-Work
 * **Client Portfolio & Services:** [View Contra Profile](https://ramoncortezzsa1ogcv.contra.com/)
 * **Architectural Deep Dives:** Read System Breakdowns on Substack
