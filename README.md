@@ -1,5 +1,6 @@
 # AI Solutions Architect & Multi-Agent Systems
 [![Devpost](https://img.shields.io/badge/Devpost-003e54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/rcortez056-spec)   [![Store](https://img.shields.io/badge/Store-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://store.ramoncortezai.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/ramon-cortez-a227a2112)
 Production-grade agentic workflows, autonomous backend pipelines, and low-code system design engineered for scalable business operations.
 
