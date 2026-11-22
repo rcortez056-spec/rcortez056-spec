@@ -25,7 +25,7 @@ Production-grade agentic workflows, autonomous backend pipelines, and low-code s
 
 ## 🏗️ Core Architecture Stack
 * **Orchestration & Execution:** Relevance AI (Multi-agent routing, deterministic validation passes)
-* **Knowledge & Context Synthesis:** NotebookLM
+* **Knowledge & Context Synthesis:** Claude
 * **Internal Tools & Validation:** Custom Netlify applications & GitHub CI/CD pipelines
 
 ---
