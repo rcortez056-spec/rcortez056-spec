@@ -19,7 +19,9 @@ Production-grade agentic workflows, autonomous backend pipelines, and low-code s
    [Access Full Client Package & Scope Guide](https://docs.google.com/document/d/1W3kjragvEpsg12eQYstqhjrljtsLWjqaclg2ety8eFY/edit?tab=t.0#heading=h.do45k9b144gm)
   > ⚠️ **Calendar is for prospective clients only.** Business owners looking to implement AI automation only — not for networking or general Q&A.
   
-   Deterministic Guardrail Enforcement
+   ## Deterministic Guardrail Enforcement
+
+   **Schema Validation · Credential Scanning · State Machine Routing**
   
   ![Deterministic Guardrail Enforcement](https://github.com/rcortez056-spec/spec-assets/blob/79c8b235db81d9fb33ed418913ea4781604b252f/Screenshot_10-11-2026_184710_gemini.google.com.jpeg)
   
