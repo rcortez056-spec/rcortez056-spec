@@ -48,3 +48,4 @@ Production-grade agentic workflows, autonomous backend pipelines, and low-code s
 
 ---
 *Focused purely on architectural system design and proof-of-work.*
+[Toggle Wars Agent](https://github.com/rcortez056-spec/toggle-wars-agent)
